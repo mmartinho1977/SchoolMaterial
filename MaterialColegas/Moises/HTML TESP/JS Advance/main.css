@@ -1,0 +1,16 @@
+#saw{
+    animation-name: goAround;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(1, 1, 1, 1);
+}
+
+#tree{
+    /*float: right;*/
+    position: absolute;
+    margin-right: 50vh;
+}
+@keyframes goAround{
+    from{ transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}

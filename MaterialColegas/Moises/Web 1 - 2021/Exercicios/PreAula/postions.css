@@ -1,0 +1,31 @@
+
+.imgGroup{
+    position: relative;
+}
+img{
+    position: fixed;
+    height: 100px;
+    width: auto;
+    left: 150px;
+}
+
+img+img{
+    height: 300px;
+    width: auto;
+    top: 55px;
+    left:75px;
+}
+
+.parent{
+    background-color: royalblue;
+    padding: 10px;
+}
+.one{
+    background-color: pink;
+}
+.two{
+    background-color: orangered;
+}
+.three{
+    background-color: olivedrab;
+}
