@@ -1,0 +1,34 @@
+html{
+    background-color: hotpink;
+}
+.blue{
+    background-color: blue;
+    height: 50vh;
+}
+.red{
+    background-color: crimson;
+    font-size: 100px;
+    transition: 2s;
+}
+
+.pink{
+    background-color: pink;
+    height: 50vh;
+}
+.green{
+    background-color: green;
+
+}
+
+.jumbotron{
+    background-image: url("https://miro.medium.com/max/1200/0*psd51eQwF-bMwUFp.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+
+.slide-bck-center {
+	-webkit-animation: slide-bck-center 0.45s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+	        animation: slide-bck-center 0.45s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+}
+

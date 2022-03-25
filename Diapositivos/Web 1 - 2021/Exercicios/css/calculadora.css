@@ -1,0 +1,21 @@
+
+input{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+li{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+ul{
+    border: 5px solid black;
+    display: inline-block;
+    padding: 2vw;
+    list-style-type: none;
+
+    
+}
+
