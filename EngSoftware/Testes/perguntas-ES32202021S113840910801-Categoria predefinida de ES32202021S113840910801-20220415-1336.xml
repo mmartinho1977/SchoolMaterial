@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Engenharia de Software</text>
+
+    </category>
+  </question>
+
+<!-- question: 8836  -->
+  <question type="essay">
+    <name>
+      <text>Questao_31</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Faça uma breve exposição acerca da importância da engenharia de software, tomando como base o porquê do seu surgimento, os desafios que enfrenta e os seus princípios.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Arquiteturas de Software</text>
+
+    </category>
+  </question>
+
+<!-- question: 3804  -->
+  <question type="essay">
+    <name>
+      <text>Questao_32</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><br></p><p><br></p><p>Comente a seguinte expressão:</p>
+<p>Uma boa arquitetura deve ser coesa e de baixo acoplamento.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>4.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>plain</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>40</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 3805  -->
+  <question type="essay">
+    <name>
+      <text>Questao_33</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><br></p><p><br></p><p>Explique a diferença entre um estilo de arquitetura de software e um padrão de arquitetura de software e dê um exemplo de cada, explicando-os e relacionado-os se possível.&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>6.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>plain</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>40</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 3806  -->
+  <question type="essay">
+    <name>
+      <text>Questao_34</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><br></p><p><br></p><p>Faça uma breve exposição acerca da importância da engenharia de software, tomando como base o porquê do seu surgimento e os desafios que enfrenta.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <responseformat>plain</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>40</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 3774  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>O SWEBOK define quantas áreas de conhecimento relativamente à engenharia de software?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>13</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>14</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>15</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Qualidade de software</text>
+
+    </category>
+  </question>
+
+<!-- question: 3775  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;">De acordo com Pressman, a engenharia de software é baseada em camadas, com foco na qualidade. Essas camadas são:</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Métodos, processo e testes.
+
+<br><p></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Ferramentas, métodos e processos.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Comunicação, métodos e implementação.
+
+<br><p></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Métodos, construção, teste e implementação.
+
+<br><p></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3777  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;">Assinale a alternativa para preencher os espaços em branco relativamente à definição de Engenharia de Software.&nbsp;</span><br></p><ol>
+</ol>
+<p></p><p>De acordo com Pressman a Engenharia de Software é a aplicação de uma abordagem sistemática, __________ e quantificável no contexto do planeamento, do __________ e exploração de sistemas de software.&nbsp;</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[disciplinada – desenvolvimento.
+
+<br><p></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[completa – implementação.
+
+<br><p></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[incremental – documentação.
+
+<br><p></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>estruturada – implementação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3778  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;">Indique quais das seguintes características corresponde a um príncípio da Engenharia de Software.</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text>Promover a reutilização do software.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Capacidade de integrar outros sistemas.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cumprir prazos de entrega.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Definição de uma arquitetura de software.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3779  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>A área de conhecimento do SWEBOK, conceçao de software (AC2), tem como resultado:&nbsp;</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Documento de requisitos.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Código fonte.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Arquitetura do sistema e desenho dos componentes.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Plano de negócio.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3780  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p></p><p><span>Durante o desenvolvimento de software, dois defeitos similares foram detetados: um durante a fase de requisitos e outro durante a implementação.&nbsp;</span></p><p><span>Qual destas afirmações tem maior probabilidade de ser verdadeira?</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>O defeito mais caro de corrigir é o que foi detetado na fase de requisitos.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>O defeito mais caro de corrigir é o que foi detetado durante a implementação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>O custo de correção dos defeitos é tendencialmente similar.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Não há relação entre a fase em que o defeito é detetado e o custo de reparação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Software</text>
+
+    </category>
+  </question>
+
+<!-- question: 3781  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_07</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Quais das seguintes afirmações acerca das características do software é falsa?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>Não tem existência física.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Copiá-lo é fácil e não diminui a sua qualidade.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Só a sua funcionalidade é que é perceptível.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Não é maleável, uma vez que é relativamente difícil sujeitá-lo a modificações.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3782  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_08</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>O que significa a expressão Big Ball of Mud?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text>Expressão usada quando um sistema, assim que finalizado, carece de uma arquitetura que possa ser entendida.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Expressão usada quando os requisitos são ambíguos e incompletos.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Expressão usada quando são usadas metodologias de desenvolvimento desenquadradas com o software a desenvolver.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Expressão usada quando não é possível resolver a negociação de um requisito:</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3783  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_09</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p></p><p><span>Que elementos estão incluídos num produto de software?</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text>Programas, estruturas de dados e documentação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>O cd de instalação e informação de instalação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Programas e as bases de dados.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Programas e documentação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Requisitos</text>
+
+    </category>
+  </question>
+
+<!-- question: 3786  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><span><br></span></p><p><span><br></span></p><p><span>O que é um requisito candidato?</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>É um requisito que não envolve qualquer questão tecnológica.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>É um requisito que foi identificado através de uma técnica de levantamento de requisitos.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>É um requisito que descreve uma funcionalidade descrita por um utilizador.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>É um requisito que descreve uma restrição do sistema.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3784  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p></p><p><span>Qual o tipo de requisitos que não deve ser incluído num documento de requisitos?</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>Requisitos funcionais.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Requisitos de manutenção.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Requisitos de projeto.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Requisitos de desempenho.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3785  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_12</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p></p><p><span>Considere o seguinte requisito:&nbsp;</span></p><p><span>O sistema deve ser fácil de usar para pessoas treinadas.</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>É um requisito funcional.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>É um requisito não funcional e é verificável.</text>
+      <feedback format="html">
+        <text><![CDATA[<br>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>É um requisito não funcional e não é verificável.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>É um requisito não funcional de aparência.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3787  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p></p><p><span>O que é requisito implícito?</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>É um requisito que foi pedido pelo cliente e está incluído na documentação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>É um requisito que foi pedido pelo cliente mas não deve ser incluído na documentação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>É um requisito que foi incluído pela equipa de desenvolvimento apesar de não ter sido referido pelo cliente.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>É um requisito que foi sugerido pela equipa de desenvolvimento, mas o cliente não o quer incluir na documentação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3788  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><span><br></span></p><p><span><br></span></p><p><span>Classifique os seguintes requisitos não funcionais:&nbsp;</span></p>
+<p></p><ol><li><span style="font-size: 0.9375rem;">O produto deve ser fácil de usar por pessoas analfabetas;</span><br></li><li><span style="font-size: 0.9375rem;">O produto deve ter um estilo igual ao dos restantes produtos da empresa;</span><br></li><li><span style="font-size: 0.9375rem;">O produto deve ser capaz de registar 50.000 itens por hora;</span><br></li><li><span style="font-size: 0.9375rem;">O programa do produto deve estar devidamente comentado;</span><br></li><li><span style="font-size: 0.9375rem;">O produto de estar em conformidade com o novo Regulamento Geral de Proteção de Dados.</span></li></ol><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>1 Aparência, 2 Usabilidade, 3 Segurança, 4 Manutenção e Suporte, 5 Legal.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>1 Usabilidade, 2 Aparência, 3 Desempenho, 4 Manutenção e Suporte, 5 Legal.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1 Usabilidade, 2 Aparência, 3 Desempenho, 4 Manutenção e Suporte, 5 Cultural.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1 e 2 Usabilidade, 3 Segurança, 4 Manutenção e Suporte, 5 Legal.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8839  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_15</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Dos termos apresentados indique qual deles corresponde a um padrão arquitetural.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Client-Server.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>SOA.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Observer.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Tree-tiers.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8838  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_16</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Indique quais dos seguintes termos corresponde a um princípio da arquitetura de software.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Encapsulamento.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Satisfação do cliente.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Completa.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Implícita.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Levantamento de requisitos</text>
+
+    </category>
+  </question>
+
+<!-- question: 3792  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_17</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><span><br></span></p><p><span><br></span></p><p><span>Relativamente à técnica de levantamento de requisitos etnografia, indique quais das seguintes afirmações é falsa.</span></p><ul>
+</ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>O engenheiro de requisitos participa nas atividades que normalmente os utilizadores realizam.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A etnografia estuda o comportamento das pessoas no seu ambiente “natural”.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>O analista aprende e executa as atividades sem qualquer supervisão.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Na observação, o analista observa e acompanha a execução dos processos atuais.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Negociação e priorização de requisitos</text>
+
+    </category>
+  </question>
+
+<!-- question: 3794  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_18</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><span><br></span></p><p><span><br></span></p><p><span>Das afirmações seguintes indique a afirmação falsa relativamente a negociação de requisitos.</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>A negociação de requisitos é um processo social que visa a resolução de conflitos.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>A necessidade de negociação surge quando existe um conflito de interesses entre duas ou mais partes e não é possível optar por várias soluções.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Os conflitos raramente existem uma vez que não é uma característica comum nos relacionamentos humanos e em todas as sociedades.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Uma solução para resolver conflitos passa pela negociação.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3793  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p></p><p></p><p><span>Relativamente aos aspetos a considerar na escrita de requisitos qual das seguintes afirmações é falsa.</span></p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text>Deve ser evitada a ambiguidade na escrita de requisitos.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Na escrita de requisitos deve ser usada terminologia vaga e termos técnicos.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Na escrita de requisitos deve ser usado vocabulário limitado.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cada requisito deve ser representado numa frase e cada frase deve representar um único requisito.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8837  -->
+  <question type="multichoice">
+    <name>
+      <text>Questão_20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><p><br></p><p><br></p><p>Analise a seguinte expressão:</p><p>Uma boa arquitetura deve ser coesa e de baixo acoplamento.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>A expressão é verdadeira, pois cada módulo numa arquitetura deve ter uma única responsabilidade e deve existir pouca dependência entre os mesmos.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;">A expressão é verdadeira, pois cada módulo numa arquitetura deve ter várias responsabilidades e deve existir uma forte dependência entre eles.</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>A expressão é falsa, porque uma boa arquitetura não deve ser coesa e deve ter um forte acoplamento.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>A expressão é verdadeira, pois um arquitetura não deve ser modularizada.<br></p><p><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3795  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_21</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Segundo McCall os factores de qualidade de para um produto de software concentram-se em três aspetos/grupos. Relativamente às características operacionais do produto, indique quais dos seguinte fatores de qualidade estão incluídos neste grupo.</p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>e.g. portabilidade, confiabilidade e usabilidade.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>e.g. portabilidade, flexibilidade e usabilidade.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>e.g. flexibilidade, integridade e usabilidade.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>e.g. usabilidade, integridade e eficiência.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3796  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Indique a ordem correta do ciclo de desenvolvimento de software.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Planeamento, análise, desenho, implementação, testes e integração e manutenção.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Análise, desenho, planeamento, implementação, testes e integração e manutenção.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Análise, planeamento, desenho, implementação, testes e integração e manutenção.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Planeamento, desenho, análise, implementação, manutenção e testes e integração.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3810  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Analise as seguintes afirmações acercas da AC2 - conceção de software do SWEBOK:</p><p></p><ol><li><span style="font-size: 0.9375rem;">Define a arquitetura, os componentes, as interfaces e outras características do sistema;</span><br></li><li><span style="font-size: 0.9375rem;">Apoia-se nos requisitos para produzir uma descrição da estrutura interna e da organização do sistema;</span></li><li><span style="font-size: 0.9375rem;">Transforma&nbsp; em código as arquiteturas concebidas e descritas na concepção.</span></li><li><span style="font-size: 0.9375rem;">O resultado deste processo deve descrever&nbsp;</span><span style="font-size: 0.9375rem;">a arquitetura do sistema;</span></li></ol>
+<br><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>1, 2 e 4 verdadeiras e 3 false.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>1 e 2 verdadeiras e 3 e 4 falsas.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>1, 2 e 3 verdadeiras e 4 falsa.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Todas verdadeiras.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3800  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Relativamente à importância da arquitetura de software:</p><p></p><p></p><ol><li><span style="font-size: 0.9375rem;">A escolha de uma arquitetura adequada proporciona mais exatidão a nível de estimativas de custos e de tempos.</span><br></li><li><span style="font-size: 0.9375rem;">É possível escolher arquiteturas diferentes sem comprometer a funcionalidade e também é possível usar a mesma arquitetura em diferentes funcionalidades.</span><br></li><li><span style="font-size: 0.9375rem;">A escolha de uma arquitetura pobre pode comprometer a funcionalidade, no entanto não compromete que os atributos de qualidade exigidos sejam alcançados.</span><br></li><li><span style="font-size: 0.9375rem;">A arquitetura não influencia a qualidade do software;</span><br></li></ol><p></p>
+
+
+<br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>1 e 2 são verdadeiras e 3 e 4 são falsas.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>1,2 e 3 são verdadeiras e 4 é falsa.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Todas verdadeiras.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Todas falsas.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria predefinida de ES|3|2202021S113840910801/TesteES/Testes</text>
+
+    </category>
+  </question>
+
+<!-- question: 8840  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;"><br></span></p><p><span style="font-size: 0.9375rem;"><br></span></p><p>A que tipo de testes se refere a seguinte definição:</p><p><span style="font-size: 0.9375rem;">São realizados geralmente por um restrito grupo de utilizadores finais do sistema. Estes simulam operações de rotina do sistema de modo a verificar se seu comportamento está de acordo com o solicitado.</span><br></p><ul><ul>
+</ul>
+</ul><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Testes de aceitação.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Testes de sistema.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Testes de integração.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Testes de regressão.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8841  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Em que fase do desenvolvimento de software se devem realizar os testes unitários?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Implementação.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Análise.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Manutenção.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Planeamento.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8842  -->
+  <question type="multichoice">
+    <name>
+      <text>Questão_27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Quais dos seguintes termos não corresponde a um critério de priorização de requisitos?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Importância.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Tempo.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Custo.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Desempenho.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8843  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Quais dos seguintes diagramas não é considerado como modelo inicial de especificação de um sistema.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Diagrama de contexto.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Diagrama de classes.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Diagrama de domínio.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Diagrama de processos de negócio.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8844  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_29</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p>Indique a que técnica de levantamento de requisitos se refere a seguinte expressão:</p><p><span style="font-size: 0.9375rem;">Para obter requisitos para um dado sistema pode-se </span><span style="font-size: 0.9375rem;">analisar documentação</span><span style="font-size: 0.9375rem;"> e </span><span style="font-size: 0.9375rem;">estudar outros sistemas já existentes </span><span style="font-size: 0.9375rem;">com propósitos semelhantes</span><span style="font-size: 0.9375rem;">.&nbsp;</span><br></p><p><ul>
+</ul>
+<br><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Análise de domínio.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Etnografia.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Dinâmicas de grupo.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Entrevistas.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 8845  -->
+  <question type="multichoice">
+    <name>
+      <text>Questao_30</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br></p><p><br></p><p><span><span style="font-size: 0.9375rem;">Qual dos seguintes argumentos é o </span><span style="font-size: 0.9375rem;">mais forte</span><span style="font-size: 0.9375rem;"> para justificar o uso da técnica de etnografia/observação numa dada empresa?</span></span><br></p><ol>
+</ol><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.5000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>A sua resposta está correta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>A sua resposta está parcialmente correta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>A sua resposta está incorreta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;">A interação direta com o utilizador permite uma discussão constante das várias formas de trabalho.</span><br><ol><ol><ol>
+</ol>
+</ol>
+</ol><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;">A observação permite ver não só o fluxo de trabalho normal, mas também situações menos típicas.</span><br><ol><ol><ol>
+</ol>
+</ol>
+</ol><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;">A observação é a técnica tradicional para captura de requisitos e a empresa tem experiência no seu uso.</span><br><ol><ol><ol>
+</ol>
+</ol>
+</ol><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><span style="font-size: 0.9375rem;">A observação ajuda à interação observadores/observados, quando estes trocam ideias em tempo real.&nbsp;</span><br><ol><ol><ol>
+</ol>
+</ol>
+</ol><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

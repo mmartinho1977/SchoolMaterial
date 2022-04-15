@@ -1,0 +1,11 @@
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Teste3\Hortas\Hortas.db\bin\Debug\Hortas.db.dacpac
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Teste3\Hortas\Hortas.db\bin\Debug\Hortas.db.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Teste3\Hortas\Hortas.db\bin\Debug\Hortas.db.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Teste3\Hortas\Hortas.db\obj\Debug\Hortas.db.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Teste3\Hortas\Hortas.db\obj\Debug\Hortas.db.pdb
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Teste3\Hortas\Hortas.db\bin\Debug\Hortas.db.dacpac
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Teste3\Hortas\Hortas.db\bin\Debug\Hortas.db.dll
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Teste3\Hortas\Hortas.db\bin\Debug\Hortas.db.pdb
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Teste3\Hortas\Hortas.db\obj\Debug\Hortas.db.sqlprojAssemblyReference.cache
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Teste3\Hortas\Hortas.db\obj\Debug\Hortas.db.dll
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Teste3\Hortas\Hortas.db\obj\Debug\Hortas.db.pdb

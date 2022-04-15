@@ -1,0 +1,14 @@
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\Hortas.models.dll.config
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\Hortas.models.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\Hortas.models.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\EntityFramework.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\EntityFramework.xml
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.csprojAssemblyReference.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.csproj.CoreCompileInputs.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.csproj.CopyComplete
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.pdb
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.dll
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.models\obj\Debug\Hortas.models.pdb

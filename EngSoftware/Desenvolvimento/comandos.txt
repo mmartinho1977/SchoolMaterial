@@ -1,0 +1,54 @@
+
+
+Scaffold-DbContext "Data Source=DESKTOP-G3LLR20; Database =Hortas; Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Install-Package Microsoft.AspNet.WebApi.Cors -Version 5.2.7
+using System.Web.Http.Cors;
+config.EnableCors(new EnableCorsAttribute("http://localhost:4200", headers: "*", methods: "*"));
+
+
+//must install node js
+//to reate angular app
+
+//install angular cli
+npm install -g @angular/cli
+
+
+ng new AppName
+
+//to run
+ng server --o
+
+//create model
+ng g c zonas
+ng g s zona
+
+
+//close port
+netstat -a -n -o
+taskkill /F /PID 3024
+
+
+<form #zonasForm ="ngForm" (ngSubmit)="zonasForm.valid && onSubmit(zonasForm)">
+            <div class="form-group">
+                <input type="text" #Description="ngModel" class="form-control" 
+                [(ngModel)]="zonaService.selectedZona.Description" name="Description">
+            </div>
+            <input type="submit" class="btn btn-success" value="save">
+
+        </form>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+
+https://www.youtube.com/watch?v=e8BlURn6SFk
+
+https://www.youtube.com/watch?v=h85_GT62K6A
+
+
+

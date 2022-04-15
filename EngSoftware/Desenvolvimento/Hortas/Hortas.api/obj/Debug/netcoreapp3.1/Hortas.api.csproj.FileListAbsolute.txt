@@ -1,0 +1,80 @@
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.api.exe
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.api.deps.json
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.api.runtimeconfig.json
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.api.runtimeconfig.dev.json
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.api.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.api.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.csprojAssemblyReference.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.AssemblyInfoInputs.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.AssemblyInfo.cs
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.csproj.CoreCompileInputs.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\staticwebassets\Hortas.api.StaticWebAssets.Manifest.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\staticwebassets\Hortas.api.StaticWebAssets.xml
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hortas.api.styles.css
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.RazorTargetAssemblyInfo.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.csproj.CopyComplete
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.genruntimeconfig.cache
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.models.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.models.pdb
+C:\Users\Marta Martinho\Documents\Desenvolvimento\Hortas\Hortas.api\bin\Debug\netcoreapp3.1\Hortas.models.dll.config
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.csprojAssemblyReference.cache
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.AssemblyInfoInputs.cache
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.AssemblyInfo.cs
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.csproj.CoreCompileInputs.cache
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.dll
+D:\Backup-20210309\Marta\Lecionacao\Licenciaturas\20202021\EngenhariaDeSoftware\Desenvolvimento\Hortas\Hortas.api\obj\Debug\netcoreapp3.1\Hortas.api.pdb

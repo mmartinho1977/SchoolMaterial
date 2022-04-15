@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.api\\Hortas.api.csproj": {}
+  },
+  "projects": {
+    "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.api\\Hortas.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.api\\Hortas.api.csproj",
+        "projectName": "Hortas.api",
+        "projectPath": "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.api\\Hortas.api.csproj",
+        "packagesPath": "C:\\Users\\Marta Martinho\\.nuget\\packages\\",
+        "outputPath": "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Marta Martinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.models\\Hortas.models.csproj": {
+                "projectPath": "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.models\\Hortas.models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.models\\Hortas.models.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.models\\Hortas.models.csproj",
+        "projectName": "Hortas.models",
+        "projectPath": "D:\\Backup-20210309\\Marta\\Lecionacao\\Licenciaturas\\20202021\\EngenhariaDeSoftware\\Desenvolvimento\\Hortas\\Hortas.models\\Hortas.models.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

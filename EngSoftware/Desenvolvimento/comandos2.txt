@@ -1,0 +1,45 @@
+
+
+Scaffold-DbContext "Data Source=DESKTOP-G3LLR20; Database =Hortas; Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Install-Package Microsoft.AspNet.WebApi.Cors -Version 5.2.7
+using System.Web.Http.Cors;
+config.EnableCors(new EnableCorsAttribute("http://localhost:4200", headers: "*", methods: "*"));
+
+
+//must install node js
+//to reate angular app
+
+//install angular cli
+npm install -g @angular/cli
+
+
+ng new AppName
+
+//build
+ng build
+
+//to run
+ng server --o
+
+//create model
+ng g c zona
+ng g s zona
+ng g class zona
+
+
+//install bootstrap
+npm install --save bootstrap jquery
+
+// install angular materials
+npm install --save @angular/material @angular/cdk @angular/animations
+
+//close port
+netstat -a -n -o
+taskkill /F /PID 3024
+
+
+
+
+
