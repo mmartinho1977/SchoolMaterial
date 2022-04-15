@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+/* p{
+
+    color: black;
+    font-family: 'Norican', cursive;
+    background-color: rgba(0, 0, 0, 0.089);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.c1 p{
+    background-color: royalblue;
+    text-align: center;
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/meh.png"),  auto;
+    color: seagreen;
+}
+
+
+.c2{
+    background-color: red;
+    text-align: right
+}
+
+#caixaDeTeste{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    margin: 25px;
+
+    border: 5px red dashed;
+    background-image: url("https://www.fiftysevendesign.com/wp-content/uploads/2020/04/Audiobook-App-Neumorphism-style.png");
+    background-size: contain;
+   
+}
+
+#caixaDeTeste div{
+    background-color: rgba(65, 105, 225, 0.13);
+    height: 75px;
+    width: 75px;
+    margin: auto;
+}
+
+p{
+    color: pink;
+}*/
+
+p , h1{
+    color: tomato;
+}
+
+p + p{
+    color: violet;
+}
+
+.c2 :first-child{
+    color: chartreuse;
+}
+
+.c2{
+    background-color: darkorange;
+}
+.c2 :hover{
+    background-color: darkcyan;
+}
+.c2 *{
+
+}

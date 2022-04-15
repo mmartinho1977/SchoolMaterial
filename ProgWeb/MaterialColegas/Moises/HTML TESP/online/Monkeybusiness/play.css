@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap');
+
+#d1{
+ height: 100px;
+ width: 100px;
+ /*Hex*/
+ background-color: #A7383D !important;
+
+ border:30px double greenyellow ;
+
+}
+
+#d1 :last-child{
+    color:red;
+}
+#d1 :first-child{
+    color:blue;
+}
+#bImage{ /*imagem  cover*/
+    
+}
+
+#d2{
+    height: 200px;
+    /*rbg*/
+    background-color: rgb(0, 0 ,255);
+}
+
+#d2:hover{
+    background-color: rgb(255, 0 ,255);
+    width: 50px;
+}
+
+#d3{
+    height: 25px;
+    /*rgba*/
+    background-color: rgba(0, 0 ,255, 0.5);
+    cursor:url(https://image.flaticon.com/icons/png/128/1077/1077976.png), auto;
+}
+
+
+#fun h2{
+    font-style: italic;
+    text-transform: uppercase;
+    line-height: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    
+}
+
+#Z{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 800;
+   font-size: 200%;
+}
+
+img{
+    float: right;
+}
+
+footer h3{
+    clear: both;
+    text-align: center;
+}
+
+#box{
+    background-color: aqua;
+    width: 250px;
+    border: 40px solid purple;
+    padding: 50px;
+    margin: 150px;
+}

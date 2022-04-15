@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Forms</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+            <form method="GET">
+                <input name="nome" placeholder="Por favor meta o seu nome" required>
+                <br>
+                <input name="pass" type="password" placeholder=" pass" required>
+                <br>
+                <input name="tlmv" type="number" maxlength="9" minlength="9" placeholder="tlvm" required>
+                <br>
+                <input name="email" type="email" placeholder="email" required>
+                <br>
+                <br>
+                <!--Radios-->
+                Action<input name="TiposJogos" type="radio" value="Action">
+                FPS<input name="TiposJogos" type="radio" value="FPS">
+                Football<input name="TiposJogos" type="radio" value="Foot">
+            
+                <!--Check box-->
+               Dog: <input name="animal" type="checkbox" value="dog">
+               Cat: <input name="animal" type="checkbox" value="cat">
+               Passaros: <input  name="animal" type="checkbox" value="passaros">
+            
+                <input type="submit" value="enviar isto">
+            </form>
+
+
+        </body>
+</html>

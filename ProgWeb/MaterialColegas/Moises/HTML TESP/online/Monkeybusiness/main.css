@@ -1,0 +1,19 @@
+h2{
+color: red;
+}
+hr{
+border-color: aquamarine;
+width: 20vw;
+border-style: dotted;
+}
+.ze{
+    background-color: red;
+}
+
+ul{
+
+}
+li{
+    font-size: 50px;
+    list-style-type: none;
+}

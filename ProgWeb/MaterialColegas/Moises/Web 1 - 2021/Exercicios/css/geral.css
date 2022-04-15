@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,300&family=Syne+Tactile&display=swap');
+:root{
+    font-size: 16px;
+}
+#styleThis{
+    text-transform: capitalize ;
+    color: darksalmon;
+    background-color: darkslateblue;
+    margin-top: 5vh;
+
+    font-size: 1rem;
+    line-height: 15px;
+    font-style: italic;
+    font-weight: 300;
+    font-family: 'Lusitana', sans-serif;
+}
+
+a{
+    height: 150px;
+    width:250px;
+}
+
+h1{
+    display: inline;
+}
+a{
+    display: inline-block;
+}
+/**
+* vh = relativa á altura
+* vw = relativa á largura
+*
+    FONTS-MEDIDAS
+    rem -  relativo a root
+    em- relativo ao parent
+    % -  relativa ao parent
+    px- medida pixeis
+    pt -medida "tradicional" de tipografia
+
+    Font-Family : caso nao exista salta para a seguinte ate cair numa dentro do estilo pedido
+*/
+table{
+    border:2px solid tomato;
+}
+table *{
+    border: 5px solid black ;
+}
+td{
+    cursor: pointer;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}

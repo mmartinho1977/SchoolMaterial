@@ -1,0 +1,20 @@
+#gameArea{
+    margin: 0;
+    background-color: darkcyan;
+    width: 80vw;
+    height: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 2vw;
+}
+
+#gameArea img{
+    width: 15vw;
+    position: absolute;
+}
+
+#img1{
+    margin-left: 60vw ;
+    margin-top: 25vw;
+}

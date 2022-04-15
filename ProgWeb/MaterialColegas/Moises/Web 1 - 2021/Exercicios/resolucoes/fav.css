@@ -1,0 +1,44 @@
+#nav{
+    width: 500px;
+    height: 50px;
+    background-color: seagreen;
+
+    position: fixed;
+    right: -450px;
+    top: 25vh;
+
+
+    display: flex;
+    justify-content: space-between;
+
+    transition: 2s;
+
+}
+
+#nav:hover{
+    right: 0;
+    transition: 2s;
+}
+
+
+p{
+    margin-left: 5px;
+}
+
+#seta{
+    width: 50px;
+    height: 50px;
+    background-color: slateblue;
+    transform: rotate(0deg);
+    transition: 2s;
+}
+#nav:hover #seta{
+    transition: 1s;
+    transform: rotate(840deg);
+}
+
+#S{
+    background-color: skyblue;
+    height: 3000px;
+    width: 5px;
+}
